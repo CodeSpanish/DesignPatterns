@@ -1,0 +1,14 @@
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Strategy.dll
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Strategy.pdb
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Factory.dll
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Observer.dll
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Singleton.dll
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Factory.pdb
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Observer.pdb
+D:\Projects\DesignPatterns\DesignPatterns\bin\Debug\Singleton.pdb
