@@ -5,7 +5,7 @@ using System.Runtime.ExceptionServices;
 namespace DesignPatterns
 {
     /// <summary>
-    /// 
+    /// Design patterns
     /// </summary>
     internal class Program
     {
